@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onKDV
 - 👀 I’m interested in programming as an opportunity for creativity
-- 🌱 I’m currently learning: JavaScript, Vue, Cache/Iris Object Script, Dart + Flatter
+- 🌱 I’m currently learning: JavaScript, Vue, Cache/Iris Object Script, Dart + Flutter
 - 💞️ I’m looking to collaborate to work with a team practicing pair programming
 - 📫 How to reach me ... here! 😉
 
